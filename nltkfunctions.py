@@ -29,6 +29,3 @@ def bag_of_words(tokenized_sentence, all_words):
 # words = ["hi", "hello", "I", "you", "bye", "thank", "cool"]
 # bag = bag_of_words(sentence, words)
 # print(bag)
-
-
-#test test
